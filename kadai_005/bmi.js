@@ -2,4 +2,6 @@ let weight=68;
 
 let height=1.7;
 
-console.log(weight/height/height);
+let bmi="bmi";
+
+console.log(bmi=weight/height/height);
